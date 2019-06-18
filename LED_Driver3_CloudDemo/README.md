@@ -14,7 +14,6 @@
 ---
 
 - **Libstock** : https://libstock.mikroe.com/projects/view/2644/led-driver-3-click-cloud-demo
-- **GitHub**   : ${GITHUB_LINK}
 
 ---
 #### Package link
