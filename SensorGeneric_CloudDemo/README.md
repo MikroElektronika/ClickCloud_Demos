@@ -14,7 +14,6 @@
 ---
 
 - **Libstock** : https://libstock.mikroe.com/projects/view/2640/sensor-generic-cloud-demo
-- **GitHub**   : ${GITHUB_LINK}
 
 ---
 #### Package link
