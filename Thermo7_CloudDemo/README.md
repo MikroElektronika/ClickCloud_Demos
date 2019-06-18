@@ -14,7 +14,6 @@
 ---
 
 - **Libstock** : https://libstock.mikroe.com/projects/view/2631/thermo-7-click-cloud-demo
-- **GitHub**   : ${GITHUB_LINK}
 
 ---
 #### Package link
