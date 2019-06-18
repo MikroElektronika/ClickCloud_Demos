@@ -14,7 +14,6 @@
 ---
 
 - **Libstock** : https://libstock.mikroe.com/projects/view/2630/ambient-4-click-cloud-demo
-- **GitHub**   : ${GITHUB_LINK}
 
 ---
 #### Package link
